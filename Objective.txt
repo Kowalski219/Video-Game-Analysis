@@ -1,0 +1,21 @@
+Objective:
+ The project aims to derive valuable insights about video games, their reception, and trends over time.
+
+Dataset Overview:
+The dataset contains information about video games including their names, platforms, release dates, summaries, Metascores, and userscores.
+
+Questions to Explore:
+
+Which Platforms Have the Highest Number of Games?
+
+What is the Distribution of Metascores and Userscores?
+
+Is There a Correlation Between Metascores and Userscores?
+
+How Have Metascores Changed Over Time?
+
+Which Genres Receive the Highest Metascores?
+
+What Are the Top-Rated Games Overall?
+
+What is the Distribution of Game Summaries' Length?
